@@ -37,7 +37,20 @@ Neste artigo, veremos como você pode configurar um chatbot Dialogflow com Chatw
 </p>
 
 
-**Manual de Configuração Chatwoot+DialogFlow**
+**Configurando a integração do Dialogflow no Chatwoot**
+
+</p>
+O Chatwoot possui uma integração nativa do Dialogflow. 
+</p>
+Vá para "Configurações -> Aplicativos -> Dialogflow". 
+</p>
+Clique em "Configurar", você verá um botão para "Adicionar um novo gancho".
+</p>
+Você precisa adicionar "ID do projeto", "Arquivo de chave do projeto" e uma caixa de entrada para criar um gancho. 
+</p>
+(Copie o conteúdo do arquivo de chave baixado anteriormente e cole-o na área de texto)
+</p>
+<img src="https://www.chatwoot.com/docs/assets/images/add-to-chatwoot-463fe037a8269b447e13e5f9c3d4c891.png" alt="Quepasa-logo" width="1000" />[
 
 
 
