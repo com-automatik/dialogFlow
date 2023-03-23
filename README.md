@@ -116,7 +116,8 @@ Você precisa adicionar "ID do projeto", "Arquivo de chave do projeto" e uma cai
 </p>
 (Copie o conteúdo do arquivo de chave baixado anteriormente e cole-o na área de texto)
 </p>
-<img src="https://www.chatwoot.com/docs/assets/images/add-to-chatwoot-463fe037a8269b447e13e5f9c3d4c891.png" alt="Quepasa-logo" width="1000" />[
+
+<img src="https://www.chatwoot.com/docs/assets/images/add-to-chatwoot-463fe037a8269b447e13e5f9c3d4c891.png" alt="Quepasa-logo" width="1000" />
 
 </p>
 Voilá! A integração está completa.
@@ -144,7 +145,7 @@ intenção de transferência, criaremos uma resposta "Carga útil personalizada"
 
 </p>
 
-<img src="https://www.chatwoot.com/docs/assets/images/handoff-intent-c24d32864b162046bd0ec929b0cc1be1.png" alt="Quepasa-logo" width="1000" />[
+<img src="https://www.chatwoot.com/docs/assets/images/handoff-intent-c24d32864b162046bd0ec929b0cc1be1.png" alt="Quepasa-logo" width="1000" />
 
 </p>
 Ao acionar uma intenção com a carga útil acima, o Chatwoot alternará o status da conversa para opene a entregará a um agente.
