@@ -39,6 +39,34 @@ Neste artigo, veremos como você pode configurar um chatbot Dialogflow com Chatw
 
 **Configurando a integração do Dialogflow no Chatwoot**
 
+Criar um novo Agente
+</p>
+Acesse o Console do Dialogflow.
+</p>
+https://dialogflow.cloud.google.com
+</p>
+Usaremos o Dialogflow Essentials para este artigo. Clique em "Criar novo agente". Ele mostraria opções como mostrado abaixo.
+</p>
+
+<img src="https://www.chatwoot.com/docs/assets/images/create-new-agent-51f6b6bc6e6da84e81c18c0bbc06986a.png" alt="Quepasa-logo" width="1000" />[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
 O Chatwoot possui uma integração nativa do Dialogflow. 
 </p>
@@ -51,6 +79,11 @@ Você precisa adicionar "ID do projeto", "Arquivo de chave do projeto" e uma cai
 (Copie o conteúdo do arquivo de chave baixado anteriormente e cole-o na área de texto)
 </p>
 <img src="https://www.chatwoot.com/docs/assets/images/add-to-chatwoot-463fe037a8269b447e13e5f9c3d4c891.png" alt="Quepasa-logo" width="1000" />[
+
+</p>
+Voilá! A integração está completa.
+</p>
+Teste a caixa de entrada do site para ver se a consulta inicial é tratada pelo bot ou não
 
 
 
