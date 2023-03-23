@@ -78,7 +78,7 @@ Forneça um nome de conta de serviço e uma descrição conforme mostrado abaixo
 
 Para fornecer acesso, selecione Dialogflow API Client no menu suspenso.
 
-<img src="https://www.chatwoot.com/docs/assets/images/service-access-88029531f5f8437b409ed22d1e7cab8f.png" alt=""DialoFlow" width="1000" />
+<img src="https://www.chatwoot.com/docs/assets/images/service-access-88029531f5f8437b409ed22d1e7cab8f.png" alt="DialoFlow" width="1000" />
 
 Continue e clique em "Concluído". Agora, você poderá ver o serviço listado no painel. O próximo passo é criar uma chave para que ela possa ser compartilhada com o Chatwoot. Clique na conta de serviço e clique na guia "Chaves". Em seguida, clique em "Adicionar chave". Você será capaz de ver uma tela como a abaixo.
 
